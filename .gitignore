@@ -1,0 +1,10 @@
+bin/*
+make.dep/*
+Binjecter
+test
+date
+date_tmp
+payload_got
+payload_inject
+.vscode/*
+backup/*
